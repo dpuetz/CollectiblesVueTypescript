@@ -30,7 +30,7 @@ const projects: Project[] = [
     description:
       'A full-stack storefront for browsing and managing an antique collectibles catalog.',
     liveUrl: 'https://takemetoyourdata.com/collectibles/home',
-    frontendRepo: 'https://github.com/dpuetz/CollectiblesVue',
+    frontendRepo: 'https://github.com/dpuetz/CollectiblesVueTypescript',
     backendRepo: 'https://github.com/dpuetz/CollectiblesVueApi',
     tech: ['Vue 3', 'TypeScript', 'Tailwind CSS', 'C# / .NET API'],
   },
